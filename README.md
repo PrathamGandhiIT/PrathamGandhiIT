@@ -4,16 +4,16 @@ I'm an Information Technology student who enjoys solving problems, exploring new
 
  What I'm Into
 
-**DSA & Competitive Programming**
+**DSA & Competitive Programming**-
 C++ · Problem Solving · Contests
 
-**AI / Machine Learning**
+**AI / Machine Learning**-
 Python · AI Projects · Experimentation
 
-**Web & Backend Development**
+**Web & Backend Development**-
 FastAPI · Django · Building Practical Applications
 
-**AI × Finance**
+**AI × Finance**-
 Exploring the intersection of technology, data, and finance.
 
 # Currently
