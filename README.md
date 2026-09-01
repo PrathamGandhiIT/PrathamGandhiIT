@@ -1,5 +1,30 @@
-# 💫 About Me:
-# Hey, I'm Pratham 👋<br><br>🎓 **B.Tech IT Student @ CHARUSAT** | ⭐ **2⭐ CodeChef**<br><br>I'm an IT student who enjoys solving problems, exploring new technologies, and turning ideas into working projects.<br><br>### 💻 What I'm Into<br><br>🧩 **DSA & Competitive Programming** with C++  <br>🤖 **AI/ML & Python** projects  <br>🌐 **Web & Backend Development**  <br>💰 Exploring **AI + Finance**<br><br>### 🚀 Currently<br><br>I'm improving my **DSA, development & AI** skills through problem solving, projects, contests, and hackathons.<br><br>### 🛠️ Tech<br><br>**C++ • Python • Java • C • FastAPI • Django • Git • GitHub**<br><br>> *Learn. Build. Break. Fix. Repeat. 🚀*
+ B.Tech IT Student @ CHARUSAT · 2★ CodeChef
+
+I'm an Information Technology student who enjoys solving problems, exploring new technologies, and turning ideas into working software.
+
+ What I'm Into
+
+**DSA & Competitive Programming**
+C++ · Problem Solving · Contests
+
+**AI / Machine Learning**
+Python · AI Projects · Experimentation
+
+**Web & Backend Development**
+FastAPI · Django · Building Practical Applications
+
+**AI × Finance**
+Exploring the intersection of technology, data, and finance.
+
+# Currently
+
+I'm strengthening my DSA, development, and AI skills through problem solving, personal projects, contests, and hackathons.
+
+#Tech
+
+C++ · Python · Java · C · FastAPI · Django · Git · GitHub
+
+---> **Learn. Build. Break. Fix. Repeat.**
 
 
 ## 🌐 Socials:
