@@ -111,6 +111,16 @@ $ cat player_status.rpg
 
 ---
 
+### 🎵 now vibing to
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rv6gtqod3amz5wzwf7egsdfwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" width="340" />
+  </a>
+</p>
+
+---
+
 <p>
   <a href="https://www.linkedin.com/in/pratham-gandhi-1a68a43"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:prathamgandhi0908@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
