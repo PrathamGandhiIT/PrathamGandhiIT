@@ -1,52 +1,90 @@
- B.Tech IT Student @ CHARUSAT · 2★ CodeChef
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
 
-I'm an Information Technology student who enjoys solving problems, exploring new technologies, and turning ideas into working software.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=false&width=435&lines=pratham+gandhi+%40+charusat+%E2%80%A2+2%E2%98%85+codechef" alt="header" />
+</p>
 
- What I'm Into
+```bash
+$ whoami
+> Pratham Gandhi — B.Tech IT @ CHARUSAT
 
-**DSA & Competitive Programming**-
-C++ · Problem Solving · Contests
+$ cat interests.txt
+> DSA & Competitive Programming (CodeChef 2★)
+> AI / Machine Learning
+> Web & Backend Development (FastAPI · Django)
+> AI × Finance — where tech meets markets
 
-**AI / Machine Learning**-
-Python · AI Projects · Experimentation
-
-**Web & Backend Development**-
-FastAPI · Django · Building Practical Applications
-
-**AI × Finance**-
-Exploring the intersection of technology, data, and finance.
-
-# Currently
-
-I'm strengthening my DSA, development, and AI skills through problem solving, personal projects, contests, and hackathons.
-
-#Tech
-
-C++ · Python · Java · C · FastAPI · Django · Git · GitHub
-
----> **Learn. Build. Break. Fix. Repeat.**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-gandhi-1a68a43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamgandhi0908@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prathamgandhiIT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prathamgandhiIT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathamgandhiIT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prathamgandhiIT&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathamgandhiIT&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+$ cat currently.txt
+> Sharpening DSA through contests & problem solving
+> Building AI-powered applications
+> Competing in hackathons
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=prathamgandhiIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### things i code with
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### projects
+
+| Project | What it is | Tech |
+|:--------|:-----------|:-----|
+| [**UDAAN — SIH 2026**](https://github.com/PrathamGandhiIT/TEAM-TECHIES-UDAAN-SIH26056) | Smart India Hackathon 2026 submission | TypeScript |
+| [**BOB AI Hackathon**](https://github.com/PrathamGandhiIT/bob-ai-hackathon-cosmo-coders) | Bank of Baroda AI challenge — Team Cosmo Coders | JavaScript |
+| [**AI Simplifier**](https://github.com/PrathamGandhiIT/AI_SIMPLIFIER) | Making complex AI concepts accessible and usable | Python |
+| [**DayFlow**](https://github.com/PrathamGandhiIT/dayflow-2026-odoo) | Human resource management system built during Odoo hackathon | Odoo |
+| [**Spotify Lyrics Overlay**](https://github.com/PrathamGandhiIT/-spotify-lyrics-overlay) | Floating synced lyrics overlay for Spotify | Python |
+| [**VendorBridge**](https://github.com/PrathamGandhiIT/VendorBridge) | Vendor management platform | JavaScript |
+
+---
+
+### competitive programming
+
+<p>
+  <a href="https://www.codechef.com/users/prathamgandhi"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef_2★-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116" />
+  <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</p>
+
+---
+
+### stats
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrathamGandhiIT&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamGandhiIT&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamGandhiIT&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/pratham-gandhi-1a68a43"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:prathamgandhi0908@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PrathamGandhiIT"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+<sub>learn. build. break. fix. repeat.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=80&section=footer"/>
