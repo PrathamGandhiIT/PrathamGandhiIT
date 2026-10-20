@@ -1,8 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=false&width=460&lines=pratham+gandhi+%40+charusat+%E2%80%A2+2%E2%98%85+codechef+%E2%80%A2+chess+1068" alt="header" />
-</p>
+# 👨‍💻 Pratham Gandhi
+**B.Tech IT @ CHARUSAT** · **CodeChef 2★** · **Chess.com 1068**
+
+```text
+algorithms · ai systems · backend architecture · competitive programming
+```
+
+</div>
 
 ```bash
 $ whoami
@@ -89,17 +94,7 @@ $ cat player_status.rpg
 
 ---
 
-### 🎵 now vibing to
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=prathamgandhi&cover_image=true&theme=default&border_radius=10&bar_color=1db954&bar_color_cover=true" alt="Spotify Now Playing" width="380" />
-  </a>
-</p>
-
----
-
-### 🐍 contribution snake
+### 🐍 contribution arena
 
 <p align="center">
   <picture>
@@ -123,5 +118,3 @@ $ cat player_status.rpg
 </p>
 
 <sub>learn. build. break. fix. repeat.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=80&section=footer"/>
