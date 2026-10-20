@@ -1,28 +1,46 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=false&width=435&lines=pratham+gandhi+%40+charusat+%E2%80%A2+2%E2%98%85+codechef" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=false&width=460&lines=pratham+gandhi+%40+charusat+%E2%80%A2+2%E2%98%85+codechef+%E2%80%A2+chess+1068" alt="header" />
 </p>
 
 ```bash
 $ whoami
 > Pratham Gandhi — B.Tech IT @ CHARUSAT
 
-$ cat interests.txt
-> DSA & Competitive Programming (CodeChef 2★)
-> AI / Machine Learning
-> Web & Backend Development (FastAPI · Django)
-> AI × Finance — where tech meets markets
-
-$ cat currently.txt
-> Sharpening DSA through contests & problem solving
-> Building AI-powered applications
-> Competing in hackathons
+$ cat player_status.rpg
++-----------------------------------------------------------------------+
+|  PLAYER: Pratham Gandhi             CLASS: Algorithmist / AI Builder  |
+|  STATUS: Level 20 Developer         ALIGN: Chaotic Productive         |
+|  HP    : [■■■■■■■■■■] 100/100       MANA : [■■■■■■■■■■] 100/100 (☕)  |
++-----------------------------------------------------------------------+
+|  EQUIPPED SKILL TREE                                                  |
+|  [★] Data Structures & Algos    ████████░░ 80%  (CodeChef 2★ / LeetCode)|
+|  [★] Chess & Strategy           ████████░░ 75%  (Bullet 1068 · Peak 1108)
+|  [★] Backend Systems            ███████░░░ 70%  (FastAPI / Django)    |
+|  [★] Applied Machine Learning   ██████░░░░ 60%  (Hackathon Proven)    |
+|  [★] Full-Stack Prototyping     ███████░░░ 70%  (TS / JS / Python)    |
++-----------------------------------------------------------------------+
+|  ACTIVE QUEST LOG                                                     |
+|  ✔ [COMPLETED] SIH 2026 Hackathon Finalist (Project UDAAN)             |
+|  ✔ [COMPLETED] Bank of Baroda AI Hackathon (Team Cosmo Coders)        |
+|  ✔ [COMPLETED] 1,400+ Bullet Chess victories on Chess.com              |
+|  ▶ [IN PROGRESS] Reach 3★ CodeChef & expand LeetCode rating           |
+|  ▶ [IN PROGRESS] Build high-throughput AI microservices               |
++-----------------------------------------------------------------------+
 ```
 
 ---
 
-### things i code with
+### 🏆 achievements & trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrathamGandhiIT&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🛠️ things i code with
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -31,8 +49,6 @@ $ cat currently.txt
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -45,7 +61,7 @@ $ cat currently.txt
 
 ---
 
-### projects
+### 📂 quest log & featured builds
 
 | Project | What it is | Tech |
 |:--------|:-----------|:-----|
@@ -58,24 +74,45 @@ $ cat currently.txt
 
 ---
 
-### competitive programming
+### ⚔️ competitive programming & strategy
 
 <p>
   <a href="https://www.codechef.com/users/prathamgandhi"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef_2★-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116" />
-  <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  <a href="https://leetcode.com/u/prathamgandhi008"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-prathamgandhi008-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.chess.com/member/pratham0611"><img alt="Chess.com Bullet" src="https://img.shields.io/badge/Chess.com_Bullet-1068-312e2b?style=flat-square&logo=chess.com&logoColor=7FA650" /></a>
+  <a href="https://www.chess.com/member/pratham0611"><img alt="Chess.com Rapid" src="https://img.shields.io/badge/Rapid-973-312e2b?style=flat-square&logo=chess.com&logoColor=7FA650" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prathamgandhi008?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Card" width="450" />
 </p>
 
 ---
 
-### stats
+### 🎵 now vibing to
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrathamGandhiIT&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamGandhiIT&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=prathamgandhi&cover_image=true&theme=default&border_radius=10&bar_color=1db954&bar_color_cover=true" alt="Spotify Now Playing" width="380" />
+  </a>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamGandhiIT&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+---
+
+### 🐍 contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamGandhiIT/PrathamGandhiIT/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamGandhiIT/PrathamGandhiIT/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/PrathamGandhiIT/PrathamGandhiIT/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrathamGandhiIT&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamGandhiIT&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
 
 ---
 
