@@ -20,11 +20,11 @@ $ cat player_status.rpg
 |  HP    : [■■■■■■■■■■] 100/100       MANA : [■■■■■■■■■■] 100/100 (☕)  |
 +-----------------------------------------------------------------------+
 |  EQUIPPED SKILL TREE                                                  |
-|  [★] Data Structures & Algos    ████████░░ 80%  (CodeChef 2★ / LeetCode)|
-|  [★] Chess & Strategy           ████████░░ 75%  (Bullet 1068 · Peak 1108)
-|  [★] Backend Systems            ███████░░░ 70%  (FastAPI / Django)    |
-|  [★] Applied Machine Learning   ██████░░░░ 60%  (Hackathon Proven)    |
-|  [★] Full-Stack Prototyping     ███████░░░ 70%  (TS / JS / Python)    |
+|  [★] Data Structures & Algos    (CodeChef 2★ / LeetCode)|
+|  [★] Chess & Strategy           (Bullet 1068 · Peak 1108)
+|  [★] Backend Systems            (FastAPI / Django)    |
+|  [★] Applied Machine Learning   (Hackathon Proven)    |
+|  [★] Full-Stack Prototyping     (TS / JS / Python)    |
 +-----------------------------------------------------------------------+
 |  ACTIVE QUEST LOG                                                     |
 |  ✔ [COMPLETED] SIH 2026 Hackathon Finalist (Project UDAAN)             |
